@@ -1,0 +1,2 @@
+# rick_and_morty_react
+React_intensive_2025
