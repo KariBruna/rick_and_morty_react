@@ -4,7 +4,7 @@ import App from './App.jsx';
 import { BrowserRouter } from 'react-router';
 
 createRoot(document.getElementById('root')).render(
-<BrowserRouter>
+<BrowserRouter basename="/rick_and_morty_react">
 <App />
 </BrowserRouter>
 )
