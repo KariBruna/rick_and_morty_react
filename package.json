@@ -1,7 +1,6 @@
 {
   "name": "rick-and-morty",
   "private": true,
-  "homepage": "https://KariBruna.github.io/rick_and_morty_react",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
